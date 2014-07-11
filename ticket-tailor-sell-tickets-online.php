@@ -39,7 +39,6 @@ add_action( 'admin_menu', 'ticket_tailor_box_office_menu' );
 
 function ticket_tailor_box_office_menu() {
     add_options_page( 'Ticket Tailor Box Office Options', 'Ticket Tailor Box Office', 'manage_options', 'ticket-tailor-box-office', 'ticket_tailor_box_office_options' );
-    add_action( 'admin_init', 'register_ticket_tailor_settings' );
 }
 
 

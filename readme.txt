@@ -3,7 +3,7 @@ Contributors: tickettailor
 Tags: ticketing system, sell tickets, event ticketing, ticket, event registration, event management, event, ticketing, tickets, venue ticketing
 Requires at least: 2.8
 Tested up to: 3.9.1
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 
 Sell tickets online via your WordPress website.
