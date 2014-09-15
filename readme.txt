@@ -1,8 +1,8 @@
 === Ticket Tailor - Sell tickets on your Wordpress site ===
 Contributors: tickettailor
-Tags: ticketing system, sell tickets, event ticketing, ticket, event registration, event management, event, ticketing, tickets, venue ticketing
+Tags: ticketing system, sell tickets, event ticketing, ticket, event registration, event management, event, ticketing, tickets, ticket shop, e-tickets, box office, e-commerce, paypal, stripe
 Requires at least: 2.8
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 1.3
 License: GPLv2 or later
 

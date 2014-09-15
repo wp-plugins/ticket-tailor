@@ -4,9 +4,26 @@ Plugin Name: Ticket Tailor - Sell Tickets Online
 Plugin URI: http://www.tickettailor.com/
 Description: Embed your Ticket Tailor box office to sell tickets online via your Wordpress website.
 Author: Zimma Ltd.
-Version: 1.0
+Version: 1.3
 Author URI: http://www.tickettailor.com/
 */
+
+register_activation_hook(__FILE__, 'tickettailor_activate');
+add_action('admin_init', 'tickettailor_redirect');
+
+function tickettailor_activate() {
+    add_option('tickettailor_do_activation_redirect', true);
+}
+
+function tickettailor_redirect() {
+    if (get_option('tickettailor_do_activation_redirect', false)) {
+        delete_option('tickettailor_do_activation_redirect');
+        if(!isset($_GET['activate-multi']))
+        {
+            wp_redirect("options-general.php?page=ticket-tailor-box-office");
+        }
+    }
+}
 
 function init_tickettailor_scripts() {
     wp_enqueue_style('tt-widget-css', plugins_url('tt-widget.css', __FILE__ ));
