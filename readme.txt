@@ -18,6 +18,8 @@ The Ticket Tailor WordPress plugin allows you to embed your box office pages
 in to your WordPress website so that your customers can buy tickets directly
 from your site.
 
+[youtube https://www.youtube.com/watch?v=hKMDTfRuFg8]
+
 [Sign up for a Ticket Tailor account to sell tickets online](http://www.tickettailor.com?rf=wppl)
 
 = Ticket Tailor Features =
