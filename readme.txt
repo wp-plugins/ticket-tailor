@@ -1,18 +1,18 @@
-=== Ticket Tailor - Sell tickets with WordPress ===
+=== Ticket Tailor - Sell event tickets with WordPress ===
 Contributors: tickettailor
-Tags: ticketing system, sell tickets, event ticketing, ticket, event registration, event management, event, events, ticketing, tickets, ticket shop, e-tickets, box office, e-commerce, event payment, paypal, stripe, events, eventbrite, open, woo, conference registration, booking system, ticket sales, wordpress ticket sales, wordpress booking system, wordpress online booking, wordpress events, wordpress ticketing system, sell tickets online
+Tags: ticketing system, sell tickets, event ticketing, sell event tickets, WordPress event ticketing, event ticketing widget, ticket, event registration, event management, event, events, ticketing, tickets, ticket shop, e-tickets, box office, e-commerce, event payment, paypal, stripe, events, eventbrite, open, woo, conference registration, booking system, ticket sales, wordpress ticket sales, wordpress booking system, wordpress online booking, wordpress events, wordpress ticketing system, sell tickets online, online box office, WordPress box office system, event ticketing system
 Requires at least: 2.8
 Tested up to: 4.1
 Stable tag: 1.3
 License: GPLv2 or later
 
-Sell tickets online via your WordPress website.
+Sell event tickets online via your WordPress website.
 
 == Description ==
 
 Ticket Tailor lets you sell tickets and turn your WordPress site in to an
-online box office. There are loads of great features to help you sell out
-your event tickets, and best of all there no per-ticket fees.
+online event ticketing box office. There are loads of great features to help 
+you sell out your event tickets, and best of all there no per-ticket fees.
 
 The Ticket Tailor WordPress plugin allows you to embed your box office widget directly
 in to your WordPress website so that your customers can buy tickets directly
