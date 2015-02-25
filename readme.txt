@@ -12,8 +12,7 @@ Sell event tickets online via your WordPress website. Ticket Tailor is an easy t
 
 Ticket Tailor lets you sell tickets and turn your WordPress site in to an
 online event ticketing and event registration system. There are loads of 
-great features to help you sell out your event tickets, and best of all 
-there no per-ticket fees or registration fees.
+great features to help you set up event registration forms and  sell out your event tickets. And best of all there no per-ticket fees or registration fees.
 
 The Ticket Tailor WordPress plugin allows you to embed event registration forms directly
 in to your WordPress website so that your customers can buy tickets
