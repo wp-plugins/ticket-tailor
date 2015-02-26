@@ -1,4 +1,4 @@
-=== Ticket Tailor - Sell Tickets with WordPress Event Registration Solution ===
+=== Ticket Tailor - Sell Tickets with WordPress - Event Ticketing and Registration Plugin ===
 Contributors: tickettailor
 Tags: ticketing system, sell tickets, event ticketing, sell event tickets, WordPress event ticketing, event ticketing widget, ticket, event registration, event management, event, events, ticketing, tickets, ticket shop, e-tickets, box office, e-commerce, event payment, paypal, stripe, events, eventbrite, open, woo, conference registration, booking system, ticket sales, wordpress ticket sales, wordpress booking system, wordpress online booking, wordpress events, wordpress ticketing system, sell tickets online, online box office, WordPress box office system, event ticketing system, attendance, attendee, Booking, buddypress, calendar, event, event calendar, events calendar, gigs, locations, maps, payment, payments, paypal, registration, sports, theme, ticket, tickets, widget, plugin, eventbrite alternative, venue ticketing, register, scheduling, stripe tickets, paypal event ticketing
 Requires at least: 2.8
@@ -6,7 +6,7 @@ Tested up to: 4.1
 Stable tag: 1.3
 License: GPLv2 or later
 
-Sell event tickets online via your WordPress website. Ticket Tailor is an easy to use event ticketing and event registration system.
+Sell event tickets online via your WordPress website. Ticket Tailor is an easy to use event ticketing and event registration system that comes with a WordPress plugin for easy integration.
 
 == Description ==
 
@@ -25,12 +25,13 @@ from your site.
 = Ticket Tailor Features =
 
 * Start selling tickets online in minutes
-* Create multiple ticket types
-* No ticket fees or registration fees
+* Create multiple ticket types for your events
+* No ticket fees or event registration fees
 * Collect credit/debit card payments using PayPal or Stripe and get paid directly for ticket sales
 * Easy event registration forms
-* Order management tools
-* Automatically sends e-tickets to your attendees
+* Order management tools (edit orders, re-send e-tickets, cancel orders)
+* Automatically sends e-tickets with barcodes and QR codes to your attendees
+* Customise your e-tickets to look how you want
 * Easily export a doorlist for your event with a list of all attendees and their tickets
 * Barcode scanning entry system to scan barcode e-tickets at the door
 * Export your customer data
