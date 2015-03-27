@@ -40,6 +40,13 @@ from your site.
 * Discount codes and tracking links
 * Great support form the Ticket Tailor team
 
+= Integrations =
+
+* PayPal - Use your own PayPal account to take credit card and PayPal payments for tickets
+* Stripe - Use your own Stripe account to take credit card payments for tickets
+* MailChimp - Automatically send your event attendees email addresses to your MailChimp lists
+* Facebook - Add event registration to your Facebook page so your customers can buy tickets directly
+
 == Installation ==
 
 1. Unpack archive to this archive to the 'wp-content/plugins/' directory inside
