@@ -38,6 +38,7 @@ from your site.
 * Website, WordPress and Facebook integration so you can sell tickets and manage event registration from anywhere
 * Get your own buytickets.at/your-biz URL for your event registration pages
 * Discount codes and tracking links
+* Choose from 10 languages for your event registration form
 * Great support form the Ticket Tailor team
 
 = Integrations =
