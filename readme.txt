@@ -59,7 +59,7 @@ from your site.
 
 3. Sign up for an account at [Ticket Tailor](http://www.tickettailor.com/?rf=wppl)
 
-4. Set up your event registration page
+4. Set up your event registration page on WordPress
 
 5. Create your event in the Ticket Tailor control panel.
 
