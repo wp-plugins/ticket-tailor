@@ -65,7 +65,7 @@ from your site.
 
 6. Embed the Ticket Tailor WordPress Embed Code to add your event registration form to a page in Wordpress
 
-7. Make your event live to open it up for event registration
+7. Make your event live and start accepting event registrations
 
 8. Your customers can now register for your event from your WordPress website.
 
