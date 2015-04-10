@@ -6,7 +6,7 @@ Tested up to: 4.1
 Stable tag: 1.3
 License: GPLv2 or later
 
-Sell event tickets online via your WordPress website. Ticket Tailor is an easy to use event ticketing and event registration system that comes with a WordPress plugin for easy integration.
+Sell event tickets online via your WordPress website. Ticket Tailor is an easy event ticketing & event registration system.
 
 == Description ==
 
