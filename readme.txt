@@ -50,33 +50,27 @@ from your site.
 
 = Testimonials from people using Ticket Tailor for event ticketing =
 
+
 > “A very impressive product all round, with quick-response customer service to match.”
-> 
-> *John Jeffreys, All Tomorrow’s Parties*
+*John Jeffreys, All Tomorrow’s Parties*
 
 > “Ticket Tailor's versatility, intuitive dashboard and friendly customer interface make it by far the best ticket selling vehicle I have used. And I've tried most of them.”
-> 
-> *Mike Manera, Piccadilly Comedy Club.*
+*Mike Manera, Piccadilly Comedy Club.*
 
 > “The software is easy to use, looks incredibly professional and the fabulous staff are always in hand to help should you require assistance, I would highly recommend this package to any organisation seeking an easy, professional solution to ticketing.”
-> 
-> *Diane Schadenberg, Tourettes Action*
+*Diane Schadenberg, Tourettes Action*
 
 > “Ticket Tailor makes it quick and easy to sell tickets online. The customer service is great, they don’t take a cut on each transaction, and there’s 30% off their monthly plans for charities. All round a great service for PTA events.”
->
-> *Tanja Kent, Collis Primary School PTA*
+*Tanja Kent, Collis Primary School PTA*
 
 > “We are using Ticket Tailor and it works really well. This is mainly down to the fact that you can keep the booking fee and are in total control of selling tickets, particularly useful if you put on multiple events week in, week out.”
-> 
-> *Richard Buller, The Brickhouse*
+*Richard Buller, The Brickhouse*
 
 > “Ticket Tailor were happy to help us keep it simple for us and our customers. Everything was delivered ahead of schedule and exactly how we wanted it to look and work. The unique Ticket Tailor system allows us and our customers to save money. Everyone wins!”
->
-> *Dan Cameron, Fieldview Festival*
+*Dan Cameron, Fieldview Festival*
 
 > “We are extremely pleased with the support and service provided by TicketTailor that we would not hesitate to recommend the solutions to others.”
-> 
-> *Donald Lambert, OnSwitch Ltd*
+*Donald Lambert, OnSwitch Ltd*
 
 == Installation ==
 
