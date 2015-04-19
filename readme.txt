@@ -1,6 +1,6 @@
 === Ticket Tailor - Sell Tickets with WordPress - Event Ticketing and Event Registration ===
 Contributors: tickettailor
-Tags: ticketing system, sell tickets, event ticketing, sell event tickets, WordPress event ticketing, event ticketing widget, ticket, event registration, event management, event, events, ticketing, tickets, ticket shop, e-tickets, box office, e-commerce, event payment, paypal, stripe, events, eventbrite, open, woo, conference registration, booking system, ticket sales, wordpress ticket sales, wordpress booking system, wordpress online booking, wordpress events, wordpress ticketing system, sell tickets online, online box office, WordPress box office system, event ticketing system, attendance, attendee, Booking, buddypress, calendar, event, event calendar, events calendar, gigs, locations, maps, payment, payments, paypal, registration, sports, booking, ticket, tickets, widget, plugin, eventbrite alternative, venue ticketing, register, scheduling, stripe ticketing, paypal event ticketing
+Tags: ticketing system, sell tickets, event ticketing, sell event tickets, WordPress event ticketing, event ticketing widget, ticket, event registration, event management, event, events, ticketing, tickets, ticket shop, e-tickets, box office, e-commerce, event payment, paypal, stripe, events, eventbrite, open, woo, conference registration, booking system, ticket sales, wordpress ticket sales, wordpress booking system, wordpress online booking, wordpress events, wordpress ticketing system, sell tickets online, online box office, WordPress box office system, event ticketing system, attendance, attendee, Booking, buddypress, calendar, event, event calendar, events calendar, gigs, locations, maps, payment, payments, paypal, registration, sports, booking, ticket, tickets, widget, plugin, eventbrite alternative, venue ticketing, register, stripe ticketing, paypal event ticketing
 Requires at least: 2.8
 Tested up to: 4.1
 Stable tag: 1.3
@@ -72,6 +72,14 @@ from your site.
 = More documentation =
 
 Go to our help page: [Sell tickets via your WordPress website - Ticket Tailor](http://www.tickettailor.com/help-and-support/sell-tickets-via-your-wordpress-website/)
+
+= Useful resources from our blog =
+
+* [5 essential WordPress plugins for your event website](http://www.tickettailor.com/blog/2014/09/15/5-essential-wordpress-plugins-for-your-event-websites/)
+* [How to sell tickets and among event registration online](https://www.tickettailor.com/blog/2014/08/29/how-to-sell-tickets-online/)
+* [Sell tickets for private events](http://www.tickettailor.com/blog/2014/11/03/sell-tickets-for-private-events/)
+* [How starting a blog can sell tickets](http://www.tickettailor.com/blog/2014/07/30/how-starting-a-blog-can-sell-tickets/)
+* [How to manage event ticketing for your PTA fundraiser](http://www.tickettailor.com/blog/2015/04/02/how-to-sell-tickets-online-to-your-pta-fundraiser/)
 
 == Screenshots ==
 
