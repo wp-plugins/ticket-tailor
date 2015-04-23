@@ -2,7 +2,7 @@
 Contributors: tickettailor
 Tags: ticketing system, sell tickets, event ticketing, sell event tickets, WordPress event ticketing, event ticketing widget, ticket, event registration, event management, event, events, ticketing, tickets, ticket shop, e-tickets, box office, e-commerce, event payment, paypal, stripe, events, eventbrite, open, woo, conference registration, booking system, ticket sales, wordpress ticket sales, wordpress booking system, wordpress online booking, wordpress events, wordpress ticketing system, sell tickets online, online box office, WordPress box office system, event ticketing system, attendance, attendee, Booking, buddypress, calendar, event, event calendar, events calendar, gigs, locations, maps, payment, payments, paypal, registration, sports, booking, ticket, tickets, widget, plugin, eventbrite alternative, venue ticketing, register, stripe ticketing, paypal event ticketing
 Requires at least: 2.8
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.3
 License: GPLv2 or later
 
