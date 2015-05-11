@@ -44,10 +44,11 @@ function tt_event_load($atts) {
 
     if(isset($atts['minimal'])) $minimal = $atts['minimal'];
     if(isset($atts['bg_fill'])) $bg_fill = $atts['bg_fill'];
+    if(isset($atts['show_logo'])) $show_logo = $atts['show_logo'];
 
     $iframe_id = 'iframe_'.rand(10000,99999);
 
-    return '<div class="tt-widget-wrapper tt-widget-inline"><iframe id="'.$iframe_id.'" frameborder="0" src="'.$url.'?widget=true&minimal='.$minimal.'&bg_fill='.$bg_fill.'"></iframe></div>
+    return '<div class="tt-widget-wrapper tt-widget-inline"><iframe id="'.$iframe_id.'" frameborder="0" src="'.$url.'?widget=true&minimal='.$minimal.'&bg_fill='.$bg_fill.'&show_logo='.$show_logo.'"></iframe></div>
     <script type="text/javascript"> jQuery( document ).ready(function() { jQuery(\'#'.$iframe_id.'\').iFrameResize({ checkOrigin: false }); }); </script>';
 }
 
