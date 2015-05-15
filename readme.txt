@@ -1,6 +1,6 @@
 === Ticket Tailor - Sell Tickets with WordPress - Event Ticketing and Event Registration ===
 Contributors: tickettailor
-Tags: ticketing system, sell tickets, event ticketing, sell event tickets, WordPress event ticketing, event ticketing widget, ticket, event registration, event management, event, events, ticketing, tickets, ticket shop, e-tickets, box office, e-commerce, event payment, paypal, stripe, events, eventbrite, open, woo, conference registration, booking system, ticket sales, wordpress ticket sales, wordpress booking system, wordpress online booking, wordpress events, wordpress ticketing system, sell tickets online, online box office, WordPress box office system, event ticketing system, attendance, attendee, Booking, buddypress, calendar, event, event calendar, events calendar, gigs, locations, maps, event widget, payment, payments, paypal, registration, sports, booking, ticket, tickets, widget, plugin, eventbrite alternative, venue ticketing, stripe ticketing, paypal event ticketing
+Tags: ticketing system, sell tickets, event ticketing, sell event tickets, WordPress event ticketing, event ticketing widget, ticket, event registration, event management, event, events, ticketing, tickets, ticket shop, e-tickets, box office, e-commerce, event payment, paypal, stripe, events, eventbrite, conference registration, booking system, ticket sales, wordpress ticket sales, wordpress booking system, wordpress online booking, wordpress events, wordpress ticketing system, sell tickets online, online box office, WordPress box office system, event ticketing system, attendance, attendee, Booking, buddypress, calendar, event, event calendar, events calendar, gigs, locations, event widget, payment, payments, paypal, registration, booking, ticket, tickets, widget, plugin, eventbrite alternative, venue ticketing, stripe ticketing, paypal event ticketing
 Requires at least: 2.8
 Tested up to: 4.2
 Stable tag: 1.3
@@ -24,10 +24,10 @@ from your site.
 
 = Ticket Tailor Features =
 
-* Start selling tickets online in minutes
+* Start selling event tickets online in minutes
 * Create multiple ticket types for your events
 * No ticket fees or event registration fees
-* Collect credit/debit card payments using PayPal or Stripe and get paid directly for ticket sales
+* Collect credit/debit card payments using PayPal or Stripe and get paid directly for event ticket sales
 * Easy event registration forms
 * Order management tools (edit orders, re-send e-tickets, cancel orders)
 * Automatically sends e-tickets with barcodes and QR codes to your attendees
@@ -72,12 +72,38 @@ from your site.
 > “We are extremely pleased with the support and service provided by TicketTailor that we would not hesitate to recommend the solutions to others.”
 *Donald Lambert, OnSwitch Ltd*
 
+= Feature tour =
+
+**Your flexible online event ticket shop**
+
+* **Instant, easy set up.** You can sign up and get your events on sale within 10 minutes. It’s super quick, you can manage it all yourself, and we are here to help if you need us.
+* **Your style and brand.** You can customise your event pages with your own images, colours and fonts so it represents your brand. You can also integrate your event booking forms directly in to your WordPress website using this plugin. 
+* **Mobile ready.** The event booking widget is responsive and will work well on any screen size.
+* **Take credit card payments easily with PayPal or Stripe.** We integrate with PayPal and Stripe so that you can take credit and debit card payments online easily, quickly and securely with no merchant accounts required.
+* **Add your own booking fees.** We don't charge any booking fees on ticket sales but we let you add your own if you want, which you get to keep!
+* **Automatic order confirmation and email e-ticket delivery.** Don’t worry about managing ticket delivery yourself. We will automatically email your customers with an e-ticket containing a barcode, essential event information and order details. You can customise the e-ticket to include any information you like.
+* **For events of all shapes and sizes.** Whether you are managing a venue with events every day, a multi-thousand capacity festival, or a small school reunion, Ticket Tailor is perfect for you. You can set up infinite configurations of events, tickets and ticket groups to get your booking forms to work how you need them to.
+
+**Your easy control panel**
+
+* **You can manage everything.** When you create an account you get access to our simple but powerful control panel. From here you can manage your events, ticket types, orders, and so on. We guide you through it when you sign up and we are always here to help if you get stuck.
+* **All the customer data is yours.** You can download all your customer data for your events from the control panel which can then be imported in to your CRM or email marketing system. We don’t do anything with that data except store it for you. 
+* **Analytics and notifications.** We notify you by email every time a new order comes in (this can also be turned off). For each event you can see how sales are going with our sales analytics graphs as well as use tracking / affiliate links to see where sales are coming from. 
+* **Order management.** You are in control of all your customers orders. If you need to search through ticket orders, change a customer's contact details, cancel an ticket order, or re-send their e-ticket, it’s all at the click of a button.
+* **Duplicate events.** If you run regular or recurring events, we've made it incredibly easy for you to duplicate events in just a few clicks.
+* **Secured by GeoTrust.** Our control panel server over SSL which means you can rest assured that all data transfer is secure.
+
+**Fast event check-in**
+
+* **Print out a doorlist for your event.** We’ve created an easy printout doorlist for your events that you can sort by e-ticket code or name. We have managed to condense it to be on as few pieces of paper whilst being big enough to read. Simply print it out and cross people’s tickets off as they come arrive your event.
+* **Check-in event attendees on your smartphone.** Download our event check-in app for Android and iPhone, and download all of your event data to your device. You can then check people in, scan their barcodes, search by their personal details, and keep track of ticket entry progress. It works offline if you don’t have internet connection at your event. When online it synchronises with our server so you can have multiple devices checking in tickets for the same event at once. 
+* **Check-in event attendees on your computer.** Use our desktop app to check people in. You can plug in a USB barcode scanner, or just search using your keyboard. It works online and offline, and ticket check-ins are synched with the server so you can have multiple devices checking in tickets for the same event at once.
+
+
 == Installation ==
 
 1. Unpack archive to this archive to the 'wp-content/plugins/' directory inside
    of WordPress
-  * Maintain the directory structure of the archive (all extracted files
-    should exist in 'wp-content/plugins/ticket-tailor-sell-tickets-online/'
 
 2. From your blog administration, click on Settings -> Ticket Tailor Box Office to change your settings.
 
@@ -108,14 +134,227 @@ Go to our help page: [Sell tickets via your WordPress website - Ticket Tailor](h
 == Screenshots ==
 
 1. Preview of the event management dashboard to manage and keep track of ticket sales
-2. Mobile app for ticket check-in. Scan in attendees.
+2. Embedded event listings in to a WordPress website
 3. Embedded ticket sales and event registration in to a WordPress website
+4. Mobile app for ticket check-in. Scan in attendees. Available on iPhone and Android.
 
-== Changes ==
+== Changelog ==
+
+
+1.3
+
+* Event widget auto-scroll
+
+1.2
+
+* Event widget update
 
 1.0
+
 * Initial release of Ticket Tailor - Sell Tickets with WordPress Event Registration Solution 
 * Embed an event registration widget in any blog page using a code snippet
+
+= Wordpress version tests =
+
+**V 4.2.2**
+
+*Test results for plugin: Ticket Tailor - Sell Tickets with WordPress Event Registration Solution*
+
+Last tested: 2015-05-05 16:09:17
+
+* #TT-Test-100 Event ticketing widget [PASS]
+* #TT-Test-101 Event registration page [PASS]
+* #TT-Test-102 PayPal payment processing [PASS]
+* #TT-Test-103 Stripe payment processing [PASS]
+* #TT-Test-104 Event manager [PASS]
+* #TT-Test-105 Ticket manager [PASS]
+* #TT-Test-106 Ticket barcode generator [PASS]
+* #TT-Test-107 Ticket order processing [PASS]
+* #TT-Test-108 Ticket barcode scanning iPhone app [PASS]
+* #TT-Test-109 Ticket barcode scanning Android app [PASS]
+* #TT-Test-110 Event doorlist export as PDF [PASS]
+* #TT-Test-111 Event doorlist export as CSV [PASS]
+* #TT-Test-112 Event registration page customisation [PASS]
+* #TT-Test-113 Event confirmation email customisation [PASS]
+* #TT-Test-114 Event description WYSIWIG editor [PASS]
+* #TT-Test-115 Ticket sales discount codes [PASS]
+* #TT-Test-116 Event order management [PASS]
+* #TT-Test-117 Event list view [PASS]
+* #TT-Test-118 Event calendar view [PASS]
+* #TT-Test-119 Resend e-ticket email [PASS]
+* #TT-Test-120 Cancel e-ticket [PASS]
+* #TT-Test-121 Event preview [PASS]
+* #TT-Test-122 Upload event image [PASS]
+* #TT-Test-123 Upload box office logo [PASS]
+* #TT-Test-124 Ticket booking registration flow [PASS]
+* #TT-Test-125 Ticket tax settings [PASS]
+
+**V4.2.1**
+
+*Test results for plugin: Ticket Tailor - Sell Tickets with WordPress Event Registration Solution*
+
+Last tested: 2015-05-05 14:09:28
+
+* #TT-Test-100 Event ticketing widget [PASS]
+* #TT-Test-101 Event registration page [PASS]
+* #TT-Test-102 PayPal payment processing [PASS]
+* #TT-Test-103 Stripe payment processing [PASS]
+* #TT-Test-104 Event manager [PASS]
+* #TT-Test-105 Ticket manager [PASS]
+* #TT-Test-106 Ticket barcode generator [PASS]
+* #TT-Test-107 Ticket order processing [PASS]
+* #TT-Test-108 Ticket barcode scanning iPhone app [PASS]
+* #TT-Test-109 Ticket barcode scanning Android app [PASS]
+* #TT-Test-110 Event doorlist export as PDF [PASS]
+* #TT-Test-111 Event doorlist export as CSV [PASS]
+* #TT-Test-112 Event registration page customisation [PASS]
+* #TT-Test-113 Event confirmation email customisation [PASS]
+* #TT-Test-114 Event description WYSIWIG editor [PASS]
+* #TT-Test-115 Ticket sales discount codes [PASS]
+* #TT-Test-116 Event order management [PASS]
+* #TT-Test-117 Event list view [PASS]
+* #TT-Test-118 Event calendar view [PASS]
+* #TT-Test-119 Resend e-ticket email [PASS]
+* #TT-Test-120 Cancel e-ticket [PASS]
+* #TT-Test-121 Event preview [PASS]
+* #TT-Test-122 Upload event image [PASS]
+* #TT-Test-123 Upload box office logo [PASS]
+* #TT-Test-124 Ticket booking registration flow [PASS]
+* #TT-Test-125 Ticket tax settings [PASS]
+
+**V4.2**
+
+*Test results for plugin: Ticket Tailor - Sell Tickets with WordPress Event Registration Solution*
+
+Last tested: 2015-05-02 11:09:54
+
+* #TT-Test-100 Event ticketing widget [PASS]
+* #TT-Test-101 Event registration page [PASS]
+* #TT-Test-102 PayPal payment processing [PASS]
+* #TT-Test-103 Stripe payment processing [PASS]
+* #TT-Test-104 Event manager [PASS]
+* #TT-Test-105 Ticket manager [PASS]
+* #TT-Test-106 Ticket barcode generator [PASS]
+* #TT-Test-107 Ticket order processing [PASS]
+* #TT-Test-108 Ticket barcode scanning iPhone app [PASS]
+* #TT-Test-109 Ticket barcode scanning Android app [PASS]
+* #TT-Test-110 Event doorlist export as PDF [PASS]
+* #TT-Test-111 Event doorlist export as CSV [PASS]
+* #TT-Test-112 Event registration page customisation [PASS]
+* #TT-Test-113 Event confirmation email customisation [PASS]
+* #TT-Test-114 Event description WYSIWIG editor [PASS]
+* #TT-Test-115 Ticket sales discount codes [PASS]
+* #TT-Test-116 Event order management [PASS]
+* #TT-Test-117 Event list view [PASS]
+* #TT-Test-118 Event calendar view [PASS]
+* #TT-Test-119 Resend e-ticket email [PASS]
+* #TT-Test-120 Cancel e-ticket [PASS]
+* #TT-Test-121 Event preview [PASS]
+* #TT-Test-122 Upload event image [PASS]
+* #TT-Test-123 Upload box office logo [PASS]
+* #TT-Test-124 Ticket booking registration flow [PASS]
+* #TT-Test-125 Ticket tax settings [PASS]
+
+**V4.1.5**
+
+*Test results for plugin: Ticket Tailor - Sell Tickets with WordPress Event Registration Solution*
+
+Last tested: 2015-05-01 10:25:16
+
+* #TT-Test-100 Event ticketing widget [PASS]
+* #TT-Test-101 Event registration page [PASS]
+* #TT-Test-102 PayPal payment processing [PASS]
+* #TT-Test-103 Stripe payment processing [PASS]
+* #TT-Test-104 Event manager [PASS]
+* #TT-Test-105 Ticket manager [PASS]
+* #TT-Test-106 Ticket barcode generator [PASS]
+* #TT-Test-107 Ticket order processing [PASS]
+* #TT-Test-108 Ticket barcode scanning iPhone app [PASS]
+* #TT-Test-109 Ticket barcode scanning Android app [PASS]
+* #TT-Test-110 Event doorlist export as PDF [PASS]
+* #TT-Test-111 Event doorlist export as CSV [PASS]
+* #TT-Test-112 Event registration page customisation [PASS]
+* #TT-Test-113 Event confirmation email customisation [PASS]
+* #TT-Test-114 Event description WYSIWIG editor [PASS]
+* #TT-Test-115 Ticket sales discount codes [PASS]
+* #TT-Test-116 Event order management [PASS]
+* #TT-Test-117 Event list view [PASS]
+* #TT-Test-118 Event calendar view [PASS]
+* #TT-Test-119 Resend e-ticket email [PASS]
+* #TT-Test-120 Cancel e-ticket [PASS]
+* #TT-Test-121 Event preview [PASS]
+* #TT-Test-122 Upload event image [PASS]
+* #TT-Test-123 Upload box office logo [PASS]
+* #TT-Test-124 Ticket booking registration flow [PASS]
+* #TT-Test-125 Ticket tax settings [PASS]
+
+**V4.1.4**
+
+*Test results for plugin: Ticket Tailor - Sell Tickets with WordPress Event Registration Solution*
+
+Last tested: 2015-04-22 17:13:54
+
+* #TT-Test-100 Event ticketing widget [PASS]
+* #TT-Test-101 Event registration page [PASS]
+* #TT-Test-102 PayPal payment processing [PASS]
+* #TT-Test-103 Stripe payment processing [PASS]
+* #TT-Test-104 Event manager [PASS]
+* #TT-Test-105 Ticket manager [PASS]
+* #TT-Test-106 Ticket barcode generator [PASS]
+* #TT-Test-107 Ticket order processing [PASS]
+* #TT-Test-108 Ticket barcode scanning iPhone app [PASS]
+* #TT-Test-109 Ticket barcode scanning Android app [PASS]
+* #TT-Test-110 Event doorlist export as PDF [PASS]
+* #TT-Test-111 Event doorlist export as CSV [PASS]
+* #TT-Test-112 Event registration page customisation [PASS]
+* #TT-Test-113 Event confirmation email customisation [PASS]
+* #TT-Test-114 Event description WYSIWIG editor [PASS]
+* #TT-Test-115 Ticket sales discount codes [PASS]
+* #TT-Test-116 Event order management [PASS]
+* #TT-Test-117 Event list view [PASS]
+* #TT-Test-118 Event calendar view [PASS]
+* #TT-Test-119 Resend e-ticket email [PASS]
+* #TT-Test-120 Cancel e-ticket [PASS]
+* #TT-Test-121 Event preview [PASS]
+* #TT-Test-122 Upload event image [PASS]
+* #TT-Test-123 Upload box office logo [PASS]
+* #TT-Test-124 Ticket booking registration flow [PASS]
+* #TT-Test-125 Ticket tax settings [PASS]
+
+**V4.1.3**
+
+*Test results for plugin: Ticket Tailor - Sell Tickets with WordPress Event Registration Solution*
+
+Last tested: 2015-04-14 18:41:37
+
+* #TT-Test-100 Event ticketing widget [PASS]
+* #TT-Test-101 Event registration page [PASS]
+* #TT-Test-102 PayPal payment processing [PASS]
+* #TT-Test-103 Stripe payment processing [PASS]
+* #TT-Test-104 Event manager [PASS]
+* #TT-Test-105 Ticket manager [PASS]
+* #TT-Test-106 Ticket barcode generator [PASS]
+* #TT-Test-107 Ticket order processing [PASS]
+* #TT-Test-108 Ticket barcode scanning iPhone app [PASS]
+* #TT-Test-109 Ticket barcode scanning Android app [PASS]
+* #TT-Test-110 Event doorlist export as PDF [PASS]
+* #TT-Test-111 Event doorlist export as CSV [PASS]
+* #TT-Test-112 Event registration page customisation [PASS]
+* #TT-Test-113 Event confirmation email customisation [PASS]
+* #TT-Test-114 Event description WYSIWIG editor [PASS]
+* #TT-Test-115 Ticket sales discount codes [PASS]
+* #TT-Test-116 Event order management [PASS]
+* #TT-Test-117 Event list view [PASS]
+* #TT-Test-118 Event calendar view [PASS]
+* #TT-Test-119 Resend e-ticket email [PASS]
+* #TT-Test-120 Cancel e-ticket [PASS]
+* #TT-Test-121 Event preview [PASS]
+* #TT-Test-122 Upload event image [PASS]
+* #TT-Test-123 Upload box office logo [PASS]
+* #TT-Test-124 Ticket booking registration flow [PASS]
+* #TT-Test-125 Ticket tax settings [PASS]
+
+
 
 == Support ==
 
