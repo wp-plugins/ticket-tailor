@@ -30,21 +30,21 @@ from your site.
 * Collect credit/debit card payments using PayPal or Stripe and get paid directly for event ticket sales
 * Easy event registration forms
 * Order management tools (edit orders, re-send e-tickets, cancel orders)
-* Automatically sends e-tickets with barcodes and QR codes to your attendees
-* Customise your e-tickets to look how you want
+* Automatically sends e-tickets with barcodes and QR codes to your event attendees
+* Customise your e-tickets to say whatever you want
 * Easily export a doorlist for your event with a list of all attendees and their tickets
 * Barcode scanning entry system to scan barcode e-tickets at the door
-* Export your customer data
+* Export the customer data of your event attendees
 * Website, WordPress and Facebook integration so you can sell tickets and manage event registration from anywhere
 * Get your own buytickets.at/your-biz URL for your event registration pages
-* Discount codes and tracking links
-* Choose from 10 languages for your event registration form
+* Discount codes and tracking links so can see how people found your event
+* Choose from 10 languages for your event registration forms
 * Great support form the Ticket Tailor team
 
 = Integrations =
 
-* PayPal - Use your own PayPal account to take credit card and PayPal payments for tickets
-* Stripe - Use your own Stripe account to take credit card payments for tickets
+* PayPal - Use your own PayPal account to take credit card and PayPal payments for event tickets
+* Stripe - Use your own Stripe account to take credit card payments for event tickets
 * MailChimp - Automatically send your event attendees email addresses to your MailChimp lists
 * Facebook - Add event registration to your Facebook page so your customers can buy tickets directly
 
@@ -119,16 +119,27 @@ from your site.
 
 8. Your customers can now register for your event from your WordPress website.
 
-= More documentation =
+== FAQ ==
 
-Go to our help page: [Sell tickets via your WordPress website - Ticket Tailor](http://www.tickettailor.com/help-and-support/sell-tickets-via-your-wordpress-website/)
+= Online documentation =
+
+[For our full documentation, please click here to see our help site.](http://www.tickettailor.com/help-and-support/). You can also email us on hi@tickettailor.com with any questions you may have.
+
+= More FAQs =
+
+* What does this plugin do? It helps you sell tickets to your event(s) online via your WordPress website.
+* Can I customise how it looks? [Yes you can. Read about our event customisation options on this page](https://www.tickettailor.com/help-and-support/website-integration-and-box-office-customisation/)
+* How much does it cost to sell event tickets with Ticket Tailor? [Please see information about our pricing by clicking here](https://www.tickettailor.com/help-and-support/pricing-subscriptions-and-sign-up/)
+* [How do I create an event with Ticket Tailor?](https://www.tickettailor.com/blog/help-and-support/how-to-create-an-event/)
+* How can I collect ticket payments for my event? Ticket Tailor works with PayPal and Stripe for payment processing which makes it really easy to take event ticket payments online. [Click here to learn more about them](http://www.tickettailor.com/blog/help-and-support/collecting-ticket-payments-with-stripe-or-paypal/)
+
 
 = Useful resources from our blog =
 
 * [5 essential WordPress plugins for your event website](http://www.tickettailor.com/blog/2014/09/15/5-essential-wordpress-plugins-for-your-event-websites/)
 * [How to sell tickets and among event registration online](https://www.tickettailor.com/blog/2014/08/29/how-to-sell-tickets-online/)
-* [Sell tickets for private events](http://www.tickettailor.com/blog/2014/11/03/sell-tickets-for-private-events/)
-* [How starting a blog can sell tickets](http://www.tickettailor.com/blog/2014/07/30/how-starting-a-blog-can-sell-tickets/)
+* [Sell event tickets for private events](http://www.tickettailor.com/blog/2014/11/03/sell-tickets-for-private-events/)
+* [How starting a blog can sell tickets for your event](http://www.tickettailor.com/blog/2014/07/30/how-starting-a-blog-can-sell-tickets/)
 * [How to manage event ticketing for your PTA fundraiser](http://www.tickettailor.com/blog/2015/04/02/how-to-sell-tickets-online-to-your-pta-fundraiser/)
 
 == Screenshots ==
@@ -136,7 +147,7 @@ Go to our help page: [Sell tickets via your WordPress website - Ticket Tailor](h
 1. Preview of the event management dashboard to manage and keep track of ticket sales
 2. Embedded event listings in to a WordPress website
 3. Embedded ticket sales and event registration in to a WordPress website
-4. Mobile app for ticket check-in. Scan in attendees. Available on iPhone and Android.
+4. Mobile app for ticket check-in. Scan in attendees at your event. Available on iPhone and Android.
 
 == Changelog ==
 
