@@ -1,6 +1,6 @@
 === Ticket Tailor - Sell Tickets with WordPress - Event Ticketing and Event Registration ===
 Contributors: tickettailor
-Tags: ticketing system, sell tickets, event ticketing, sell event tickets, WordPress event ticketing, event ticketing widget, ticket, event registration, event management, event, events, ticketing, tickets, ticket shop, e-tickets, box office, e-commerce, event payment, paypal, stripe, events, eventbrite, conference registration, booking system, ticket sales, wordpress ticket sales, wordpress booking system, wordpress online booking, wordpress events, wordpress ticketing system, sell tickets online, online box office, WordPress box office system, event ticketing system, attendance, attendee, Booking, buddypress, calendar, event, event calendar, events calendar, gigs, locations, event widget, payment, payments, paypal, registration, booking, ticket, tickets, widget, plugin, eventbrite alternative, venue ticketing, stripe ticketing, paypal event ticketing
+Tags: ticketing system, sell tickets, event ticketing, sell event tickets, WordPress event ticketing, event ticketing widget, ticket, event registration, event management, event, events, ticketing, tickets, ticket shop, e-tickets, box office, e-commerce, event payment, paypal, stripe, events, eventbrite, conference registration, booking system, ticket sales, wordpress ticket sales, wordpress booking system, wordpress online booking, wordpress events, wordpress ticketing system, sell tickets online, online box office, WordPress box office system, event ticketing system, attendance, attendee, Booking, calendar, event, event calendar, events calendar, gigs, event widget, payment, payments, paypal, registration, booking, ticket, tickets, widget, plugin, eventbrite alternative, venue ticketing, stripe ticketing, paypal event ticketing
 Requires at least: 2.8
 Tested up to: 4.2
 Stable tag: 1.3
@@ -47,6 +47,7 @@ from your site.
 * Stripe - Use your own Stripe account to take credit card payments for event tickets
 * MailChimp - Automatically send your event attendees email addresses to your MailChimp lists
 * Facebook - Add event registration to your Facebook page so your customers can buy tickets directly
+* Zapier - When anyone buys a ticket to your event, you can now trigger 1,000s of events in other great apps inc. Google Spreadsheets, Xero, Infusionsoft, and Salesforce.
 
 = Testimonials from people using Ticket Tailor for event ticketing =
 
@@ -57,8 +58,33 @@ from your site.
 > “Ticket Tailor's versatility, intuitive dashboard and friendly customer interface make it by far the best ticket selling vehicle I have used. And I've tried most of them.”
 *Mike Manera, Piccadilly Comedy Club.*
 
+>”@tickettailor Love your service!  I use it for all my events!”
+*@YogaUncorked via Twitter”
+
+> “We used TT to help us sell tickets online for a small community music festival on the Isle of Skye. Last year we tried (and succeeded, but at a cost of much hard work, loads of hours and reams of paper) to sell tickets manually - by phone, by email, etc...
+This year, we decided to risk taking the plunge to sell tickets online - The Ticket Tailor service was very simple to set up, to create events, to get dashboard reporting on and to integrate with payment services. Once events were designed, pasting the 'widget' into the web controls (I used squarespace) was also very simple.
+Customer Service was great (I asked a couple of questions by email about how to set up events and how I could stop my subscription once our event was over) and got replies very quickly with the information I needed.
+Top class.”
+*Steve Nolan, Event Website builder at Ceol On the Croft*
+
+> “Ticket Taylor Ticked All My Boxes For Selling Tickets Online For An Event”
+Having recently being tasked with sorting ticket sales for my old colleges reunion, I searched to see if there was on online ticket solution to my dilemma as the former students were now all over UK/world and I had no direct contact for them. 
+This is where I found Ticket Taylor. On researching other companies of similar attributes, Ticket Taylor came out on top especially in the value for money department. 
+On signing up to the package, I soon found the site very easy to use. You can also SEO the ticket office to suit direct hits for potential online searches. 
+The system is, in my opinion, faultless. It made what a thought would be a cumbersome task into something very delightful. 
+The process of buying a ticket online was simple. I created links from the Facebook page and my website to the online ticket office. 
+I could regularly extrapolate information from the data collected by Ticket Taylor. 
+I found the e-ticketing system very useful indeed. 
+During the use of their system I had little need for help But when I did, their messaging system was simple to use and the small problems I had were dealt with quickly and in a very friendly manor.
+Overall, I would strongly recommend Ticket Taylor to others. It makes the task of selling tickets to a non-local audience incredibly easy and is great value for money.
+Already looking forward to using their system again.
+*Steve Purnell, Advanscape.co.uk*
+
 > “The software is easy to use, looks incredibly professional and the fabulous staff are always in hand to help should you require assistance, I would highly recommend this package to any organisation seeking an easy, professional solution to ticketing.”
 *Diane Schadenberg, Tourettes Action*
+
+> “Having been an event organiser for five years, booking fees felt like that unnecessary norm. I stumbled across Ticket Tailor when I was looking for an alternative to my previous ticketing agent and must say I was very impressed. Whist it is simplistic, it works perfectly with very fair monthly rates. The customer service is great and we managed to secure our own customised package. Would definitely recommend to other event organisers.”
+*Mark Chaffey, Vice-President at KCLBC*
 
 > “Ticket Tailor makes it quick and easy to sell tickets online. The customer service is great, they don’t take a cut on each transaction, and there’s 30% off their monthly plans for charities. All round a great service for PTA events.”
 *Tanja Kent, Collis Primary School PTA*
